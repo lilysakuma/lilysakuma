@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Lily! 👋
 
-<!--
-**lilysakuma/lilysakuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Florida State University, interested in software engineering, cybersecurity, and government technology.
 
-Here are some ideas to get you started:
+### 💻 About Me
+- 🎓 Computer Science student at Florida State University
+- 🔐 Interested in cybersecurity and secure software development
+- 🛠️ Building hands-on projects to strengthen my programming skills
+- 🚀 Exploring opportunities in software engineering and government technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages:** C#, C++, Python, SQL
+- **Frameworks & Tools:** .NET, Flask, Git, GitHub
+- **Concepts:** Object-Oriented Programming, Database Management, Unit Testing
+
+### 📂 Featured Projects
+
+**[Cyber Incident Manager](https://github.com/lilysakuma/cyber-incident-project)**
+
+A database-driven web application built with Python, Flask, and SQLite for tracking cybersecurity incidents, evidence, and related tasks.
+
+**Student Course Enrollment System** *(Coming Soon)*
+
+A C#/.NET console application that manages student enrollments, validates user input, and saves data using JSON.
+
+### 📫 Connect With Me
+- GitHub: [github.com/lilysakuma](https://github.com/lilysakuma)
